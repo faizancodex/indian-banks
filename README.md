@@ -1,12 +1,4 @@
-# Bank Logos Repository
-
-A structured collection of Indian bank logos, organized by a unique 4-letter bank logo code for each bank. Each bank has its own folder containing exactly one logo file, named `logo.<extension>`.
-
-- Every bank has its **own folder**, named with its unique 4-letter bank logo code (`A-Z` only — no numbers, spaces, hyphens, or special characters).
-- Each folder contains **exactly one file**: the bank's logo, renamed to `logo.<extension>` (e.g. `logo.gif`).
-- No folder contains more than one bank's logo, and no logo appears in more than one folder.
-
-## Bank Directory
+# Indian Bank
 
 | Bank Name | Bank Logo Code | Logo Format | Path |
 |---|---|---|---|
