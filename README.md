@@ -2,10 +2,9 @@
 
 | Bank Name | Bank Logo Code | Logo Format | Path |
 |---|---|---|---|
-| Airtel Payments Bank | `AIRT` | .gif | `AIRT/logo.gif` |
+| Airtel Payments Bank | `AIRP` | .gif | `AIRP/logo.gif` |
 | Indian Bank (Erstwhile Allahabad Bank) | `ALLA` | .gif | `ALLA/logo.gif` |
-| AU Small Finance Bank | `AUSF` | .gif | `AUSF/logo.gif` |
-| Axis Bank | `AXIS` | .gif | `AXIS/logo.gif` |
+| AU Small Finance Bank | `AUBL` | .gif | `AUBL/logo.gif` |
 | Bank of Baroda - Retail Banking | `BARB` | .gif | `BARB/logo.gif` |
 | Bank of India - Corporate Banking | `BKID` | .gif | `BKID/logo.gif` |
 | Central Bank of India | `CBIN` | .gif | `CBIN/logo.gif` |
@@ -45,7 +44,8 @@
 | UCO Bank | `UCBA` | .gif | `UCBA/logo.gif` |
 | Ujjivan Small Finance Bank | `UJVN` | .gif | `UJVN/logo.gif` |
 | Punjab National Bank (Erstwhile United Bank of India) | `UTBI` | .gif | `UTBI/logo.gif` |
-| Bank of Baroda - Retail Banking (Erstwhile Vijaya Bank) | `VJYB` | .gif | `VJYB/logo.gif` |
+| Axis Bank | `UTIB` | .gif | `UTIB/logo.gif` |
+| Bank of Baroda - Retail Banking (Erstwhile Vijaya Bank) | `VIJB` | .gif | `VIJB/logo.gif` |
 | Yes Bank | `YESB` | .gif | `YESB/logo.gif` |
 
 **Total banks included:** 45
